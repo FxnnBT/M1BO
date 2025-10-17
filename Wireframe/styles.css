@@ -154,4 +154,8 @@ h1{
     .flex-item{
         flex-basis: 100%;
     }
+    .item1 img{
+        max-width: 100%;
+        height: auto;
+    }
 }
