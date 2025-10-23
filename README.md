@@ -1,2 +1,2 @@
 # M1BO
-Beroepsopleiding M1
+Beroepsopleiding repo M1
