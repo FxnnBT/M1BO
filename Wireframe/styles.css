@@ -158,4 +158,8 @@ h1{
         max-width: 100%;
         height: auto;
     }
+    header{
+        height: 30vh;
+        max-width: 100%;
+    }
 }
